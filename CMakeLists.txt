@@ -8,3 +8,4 @@ INCLUDE( ${DL_MODULE_PATH}/CMake_lib_macros.cmake )
 
 # Process subdirectories
 ADD_SUBDIRECTORY( dl )
+ADD_SUBDIRECTORY( tests )
